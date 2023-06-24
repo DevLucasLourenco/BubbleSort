@@ -1,6 +1,6 @@
 class BubbleSort:
     """
-    Realiza o Bubble Sort.\n
+    Realiza o algoritmo de ordenação Bubble Sort em uma lista.\n
       Parâmetros
         ----------\n
             lista : list
